@@ -1,7 +1,7 @@
 ---
-title: Nuclear Energy
+title: My Essay Topic
 layout: base
-author: Your Name
+author: Justin Garcia
 date: 2026-01-01
 header-image: images/rancho-seco.jpg
 header-title: Nuclear Energy
@@ -19,7 +19,7 @@ tags:
   - civilian
 ---
 
-# Nuclear Energy
+# My Essay Topic
 
 This is sample content. Replace it with your essay, images about your topic, and at the end an image of your 3D-printed object. My name is Justin G. 
 
