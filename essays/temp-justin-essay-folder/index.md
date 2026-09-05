@@ -24,10 +24,10 @@ tags:
 These 150 words are not the object of evaluation per se. And yet, I’ve spent the better part of three hours typing, deleting, and typing again – unsure of what I want to say. No doubt, this incessant dwelling fumbles the spirit of the assignment. However, the process of dwelling surfaced and verbalized a piece of my motivations for studying History. Interestingly, it’s the same idea on which my desire to write news rested and the same idea that pushed me to leave that work, and the same idea that animates my discomfort with LLMs and social media generally. I’d argue (on another platform) that publishing should be treated like a sacred act. Regardless of the length of the writing or size of the audience, I’d make the argument that, once someone chooses to publish something, they accept some kind of responsibility for that work. What responsibility, and what that responsibility obligates them to, I can’t say. For now, it’s enough to post this little journal entry here to serve as a guidepost for what follows.
 
 {% include images/figure.html
-  image-path="images/first-four-bulbs.jpeg"
+  image-path="images/IBM-typewriter.jpg"
   image-width="55%"
-  alt-text="The first four light bulbs powered by nuclear energy in 1951."
-  caption="The first four light bulbs powered by nuclear energy in 1951. [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:First_four_nuclear_lit_bulbs.jpeg), open access."
+  alt-text="A picutre of a typewriter shameless copied from google and stripped of it's credit. I did this for piracies sake!"
+  caption="A picutre of a typewriter shameless copied from google and stripped of it's credit. I did this for piracies sake!. [Yarrr!](https://www.google.com/search?sca_esv=414f7827edae3c64&sxsrf=APpeQnvFZ0xBKmbfhlmpefSwwRFbvTUNeA:1788571682961&udm=2&fbs=ABfTbFVyMZGZf1hfvX9uKjN_-G8cqCQj_06QnZs315LoFmPf5bBLHMJ0vMQmTbuI72DM7jnxvATrUU2Yg9dwuUGnsUHcXPuOM0_k1dPPnMiKJgy16dZbzxEzLfw8wuRMswCXrs9fhEanZVbAmA8YyZu-ymgLhggCudbuU4JKDKDdqbAKtflTCBbYPtVrw6QyN1ssQRie8wC33P8NobSQ9fqXwBwnfKcu7Q&q=the+electric+typewriter&sa=X&ved=2ahUKEwi9uMXepNaWAxUXGDQIHeWBFDgQtKgLegQIFhAB&biw=1440&bih=812&dpr=2#sv=CAMSURoyKhBlLXJ3REI5aXF4emtlTEFNMg5yd0RCOWlxeHprZUxBTToOajgtT0VTQmp2cGFlS00gBCoXCgFzEhBlLXJ3REI5aXF4emtlTEFNGAEwARgHIPeYnQlKCBABGAEgASgB), "open" access."
 %}
 
 
