@@ -19,9 +19,9 @@ tags:
   - civilian
 ---
 
-# My Essay Topic
+# Writing about writing for a class about energy 
 
-This is sample content. Replace it with your essay, images about your topic, and at the end an image of your 3D-printed object. My name is Justin G. 
+These 150 words are not the object of evaluation per se. And yet, I’ve spent the better part of three hours typing, deleting, and typing again – unsure of what I want to say. No doubt, this incessant dwelling fumbles the spirit of the assignment. However, the process of dwelling surfaced and verbalized a piece of my motivations for studying History. Interestingly, it’s the same idea on which my desire to write news rested and the same idea that pushed me to leave that work, and the same idea that animates my discomfort with LLMs and social media generally. I’d argue (on another platform) that publishing should be treated like a sacred act. Regardless of the length of the writing or size of the audience, I’d make the argument that, once someone chooses to publish something, they accept some kind of responsibility for that work. What responsibility, and what that responsibility obligates them to, I can’t say. For now, it’s enough to post this little journal entry here to serve as a guidepost for what follows.
 
 {% include images/figure.html
   image-path="images/first-four-bulbs.jpeg"
