@@ -27,12 +27,8 @@ These 150 words are not the object of evaluation per se. And yet, I’ve spent t
   image-path="images/IBM-typewriter.jpg"
   image-width="55%"
   alt-text="A picutre of a typewriter shameless copied from google and stripped of it's credit. I did this for piracies sake!"
-  caption="A picutre of a typewriter shameless copied from google and stripped of it's credit. I did this for piracies sake!. [Yarrr!](https://www.google.com/search?sca_esv=414f7827edae3c64&sxsrf=APpeQnvFZ0xBKmbfhlmpefSwwRFbvTUNeA:1788571682961&udm=2&fbs=ABfTbFVyMZGZf1hfvX9uKjN_-G8cqCQj_06QnZs315LoFmPf5bBLHMJ0vMQmTbuI72DM7jnxvATrUU2Yg9dwuUGnsUHcXPuOM0_k1dPPnMiKJgy16dZbzxEzLfw8wuRMswCXrs9fhEanZVbAmA8YyZu-ymgLhggCudbuU4JKDKDdqbAKtflTCBbYPtVrw6QyN1ssQRie8wC33P8NobSQ9fqXwBwnfKcu7Q&q=the+electric+typewriter&sa=X&ved=2ahUKEwi9uMXepNaWAxUXGDQIHeWBFDgQtKgLegQIFhAB&biw=1440&bih=812&dpr=2#sv=CAMSURoyKhBlLXJ3REI5aXF4emtlTEFNMg5yd0RCOWlxeHprZUxBTToOajgtT0VTQmp2cGFlS00gBCoXCgFzEhBlLXJ3REI5aXF4emtlTEFNGAEwARgHIPeYnQlKCBABGAEgASgB), "open" access."
+  caption="A picutre of a typewriter shameless copied from google and stripped of it's credit. I did this for piracies sake!. [Yarrr!], "open" access."
 %}
-
-
-
-This is sample text that you will replace. Your essay on a particular topic in the History of Energy will explain the background and the object you chose to 3D print. The assignment has been designed with twofold intent in mind. First, quite simply the idea is to introduce students to digital humanities and its potential in learning and pedagogical skill set in a upper division class. Second, students will be encouraged to consider the modes and mediums through which a traditional research paper, and all the skills that go into it, can be transferred to other aspects of critical analysis. Students will consider a particular object – the precise nature and shape of which will be decided in consultation with the class instructor – and how it embodies some of the salient themes in this class on history of energy. The object could be specific to a particular society, culture or form of technology but must explore an illustrative example of a history that has not been covered in this class. 
 
 This is how you will create footnotes on your webpage.[^1]
 
